@@ -29,18 +29,20 @@ Further, this analysis is a point in time. I really enjoyed [this presentation](
 
 ## Requirements
 Requirements can be installed using standard
-`python
-pip install -r requirements.txt`
+```Shell
+pip install -r requirements.txt
+```
 
 This is written in python 3.6, but also runs in 2.7
 
 ## Structure
 Running the comparator can be run as:
-`python
-python Comparator.py`
+```bash
+python Comparator.py
+```
 
 An output CSV is created in the [output directory](/output) with a schema of:
-["Rank","comparator","comparator_name","index","index_name"]
+
 | Field | Description |
 | ----- | ----------- |
 | Rank  | The ranking of nearest neighbor based on distance |
