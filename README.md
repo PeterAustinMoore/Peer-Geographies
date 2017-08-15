@@ -1,4 +1,4 @@
-# BEAComparators
+# Peer Geographies
 ## About
 This is a simple python script for extracting, transforming, and analyzing BEA data
 in order to compare various geographies by various measures with the output being
