@@ -18,7 +18,7 @@ K-Means and other clustering algorithms cannot generally provide.
 I found [this post by kevinzakka](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
 particularly useful for some more information on K-Nearest-Neighbor (KNN).
 
-*Note* This application of KNN is not perfect. You will notice at no point
+**Note:** This application of KNN is not perfect. You will notice at no point
 is there a training or test dataset created and there are no goodness of fit tests.
 The primary reason for this is that I am intentionally overfitting this data and
 have no intention of making predictions or further classifications on incoming data. Also,
